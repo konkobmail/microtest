@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ewufybefyebwufubfvyuwevewv.cf	TRUE	/	FALSE	1999999999	__cfduid	d2b1a469154723513b0f650c1cb182bf21604942791
+ewufybefyebwufubfvyuwevewv.cf	TRUE	/	FALSE	1999999999	SameSite	Lax
+
